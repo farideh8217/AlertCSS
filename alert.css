@@ -1,0 +1,21 @@
+.box{
+    color: #fff;
+    font-size: 16px;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.blue{
+    background-color: cornflowerblue;
+}
+.box a{
+    font-family: tahoma;
+    font-size: 12px;
+    margin-right:20px ;
+}
+.insta{
+    background-color: orange;
+}
+.whatsapp{
+    background-color: deeppink;
+}
